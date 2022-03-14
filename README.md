@@ -5,7 +5,7 @@
 - 💪 2021 Goals: Start learning programming
 - ⭐: Reading, listening, playing game... and blade wind😅
 
-### :zap: GitHub Stats
+### :zap: My Skill
 
 <p align="center">
   <img alt="gif" src=".github/giphy.gif"/>
