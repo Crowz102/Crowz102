@@ -2,7 +2,7 @@
 
 
 - 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Start learn code
+- 💪 2021 Goals: Start learning programming
 - ⭐: Reading, listening, playing game... and blade wind😅
 
 ### :zap: GitHub Stats
