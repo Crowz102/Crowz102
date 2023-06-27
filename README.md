@@ -16,7 +16,8 @@
 <img align="left" title="HTML5" alt="HTML5" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/8/80/HTML5_logo_resized.svg" /> 
 <img align="left" title="CSS" alt="CSS" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />
 <img align="left" title="JavaScript" alt="JavaScript" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" title="Node JS" alt="JavaScript" width="28px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" />
+<img align="left" title="Node JS" alt="NodeJS" width="28px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" />
+<img align="left" title="Python" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" />
 
 
 ---
