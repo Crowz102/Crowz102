@@ -21,7 +21,7 @@
 <img align="left" title="Pandas" alt="Pandas" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" title="Pandas" alt="Pandas" width="25px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/>
 
-### 📫 Contact me via:
+-### 📫 Contact me via:
 - EMAIL: ducthienle95@gmail.com
 
 
