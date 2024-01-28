@@ -20,9 +20,8 @@
 <img align="left" title="Python" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" />
 <img align="left" title="Pandas" alt="Pandas" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" title="Pandas" alt="Pandas" width="25px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/>
-</br>
+
 ### 📫 Contact me via:
 - EMAIL: ducthienle95@gmail.com
-- FACEBOOK: [LÊ ĐỨC THIỆN](https://www.facebook.com/Crowz.102)
-- STEAM: [Crowz102](https://steamcommunity.com/profiles/76561199012288125)
+
 
