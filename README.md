@@ -14,21 +14,25 @@
 <img align="left" title="Tensor Flow" alt="Tensor Flow" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRt0OU-18slF5XnJ0no2b9gA8twntZG6UngQ&s"/>
 <img align="left" title="Keras" alt="Keras" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66v5-2j94_LFzHyPcFfyGR2JLOoFrjjicPQ&s"/>
 <img align="left" title="Pytorch" alt="Pytorch" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTABCjpuMscLQRv3Qn612CuXy7wBF23Xs9AOQ&s"/>
-<img align="left" title="PowerBI" alt="Pandas" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png"/><hr>
+<img align="left" title="PowerBI" alt="PowerBI" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png"/><hr>
 
 ### Activities and Awards
 - Participated in the Startup Competition 2022 organized by Vietnam-Korea University
 - Received a Consolation Prize in the RoboCar 2023 competition organized by Vietnam-Korea University.
 
 ### Object
-🔥 To leverage my skills in Machine Learning and Deep Learning, particularly in applying advanced AI techniques to real-world problems. I aim to contribute to innovative projects and grow within a dynamic tech environment."
+🔥 To leverage my skills in Machine Learning and Deep Learning, particularly in applying advanced AI techniques to real-world problems. I aim to contribute to innovative projects and grow within a dynamic tech environment.
 
 ### Hobbies and Interests
 - Explore the latest trends in AI and Machine Learning.
 - Read both literature or books on new technologies to expand knowledge.
 - Listen to music or play video games to relax.
 - Cook new recipes and experiment with different dishes.
+
+### 📈 Contributions
+
+![Your contributions](https://github-readme-streak-stats.herokuapp.com/?user=Crowz102&theme=dark)
+[![Your contributions graph](https://ghchart.rshb.dev/YOUR_GITHUB_USERNAME)](https://ghchart.rshb.dev/Crowz102)
+
 ### 📫 Contact me via:
 - EMAIL: ducthienle95@gmail.com
-
-
