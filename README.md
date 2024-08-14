@@ -32,7 +32,7 @@
 ### 📈 Contributions
 
 ![Your contributions](https://github-readme-streak-stats.herokuapp.com/?user=Crowz102&theme=dark)
-[![Your contributions graph](https://ghchart.rshb.dev/Crowz102)](https://ghchart.rshb.dev/Crowz102)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crowz102&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=dark)
 
 ### 📫 Contact me via:
 - EMAIL: ducthienle95@gmail.com
