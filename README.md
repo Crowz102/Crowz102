@@ -16,7 +16,8 @@
 <img align="left" title="Numpy" alt="Pandas" width="25px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/> 
 <img align="left" title="PowerBI" alt="Pandas" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png"/><hr>
 
-### Reward
+### Activities and Awards
+- Participated in the Startup Competition 2022 organized by Vietnam-Korea University
 - Received a Consolation Prize in the RoboCar 2023 competition organized by Vietnam-Korea University.
 ### 📫 Contact me via:
 - EMAIL: ducthienle95@gmail.com
