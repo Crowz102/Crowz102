@@ -1,9 +1,6 @@
 <!-- ### Hi, I'm THIEN LE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
-
-
-- 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Start learning programming
-- ⭐: Reading, listening, playing game... and blade wind😅
+- 🔥 2024 Goals: Learning Deeplearning, TensorFlow, Keras, Pytorch
+- ⭐: Reading, listening to music, playing game... and blade wind😅
 
 ### :zap: My Skill
 
