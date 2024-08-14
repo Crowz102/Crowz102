@@ -1,7 +1,4 @@
 <!-- ### Hi, I'm THIEN LE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
-- 🔥 2024 Goals: Learning Deeplearning, TensorFlow, Keras, Pytorch
-- ⭐: Reading, listening to music, playing game... and blade wind😅
-
 ### :zap: My Skill
 
 <p align="center">
@@ -22,6 +19,16 @@
 ### Activities and Awards
 - Participated in the Startup Competition 2022 organized by Vietnam-Korea University
 - Received a Consolation Prize in the RoboCar 2023 competition organized by Vietnam-Korea University.
+
+### Object
+To leverage my skills in Machine Learning and Deep Learning, particularly in applying advanced AI techniques to real-world problems. I aim to contribute to innovative projects and grow within a dynamic tech environment."
+
+### Hobbies and Interests
+- Explore the latest trends in AI and Machine Learning.
+- Read both literature or books on new technologies to expand knowledge.
+- Listen to music to relax.
+- Play video games.
+- Cook new recipes and experiment with different dishes.
 ### 📫 Contact me via:
 - EMAIL: ducthienle95@gmail.com
 
