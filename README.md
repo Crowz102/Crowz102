@@ -26,8 +26,7 @@
 ### Hobbies and Interests
 - Explore the latest trends in AI and Machine Learning.
 - Read both literature or books on new technologies to expand knowledge.
-- Listen to music to relax.
-- Play video games.
+- Listen to music or play video games to relax.
 - Cook new recipes and experiment with different dishes.
 ### 📫 Contact me via:
 - EMAIL: ducthienle95@gmail.com
