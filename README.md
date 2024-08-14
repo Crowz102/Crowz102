@@ -14,7 +14,7 @@
 <img align="left" title="Python" alt="Python" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029" />
 <img align="left" title="Pandas" alt="Pandas" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>
 <img align="left" title="Numpy" alt="Numpy" width="25px" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/> 
-<img align="left" title="Numpy" alt="Tensor Flow" width="40px" src="https://yt3.googleusercontent.com/ytc/AIdro_lAp1zO3sFLjm6hBn_gH0nd3FzZ6c2GN5U85vwlbH1e9ME=s900-c-k-c0x00ffffff-no-rj"/>
+<img align="left" title="Numpy" alt="Tensor Flow" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKN86AmhPWLYtZaEMtvgmnCmMuh2JHS2FFoA&s"/>
 <img align="left" title="PowerBI" alt="Pandas" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1024px-New_Power_BI_Logo.svg.png"/><hr>
 
 ### Activities and Awards
